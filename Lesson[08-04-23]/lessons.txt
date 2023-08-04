@@ -1,0 +1,19 @@
+>git init					[to initialize]
+>git add "<file>"				[to add the file]
+>git status					[to check the status]
+>git commit	
+>git push
+>git pull
+>git clone
+>git remote
+>git rm --cached <file>				[to retrieve the specific added file]
+>git --version
+>code .
+>mkdir
+>dir
+>git reset					[to reset all added file]
+>git add *.html					[to add all html file]
+>git commit -m "msg"				[commit with msg]
+>git config --global user.name "username"	
+>git config --global user.email "email"
+>git remote -v					[
